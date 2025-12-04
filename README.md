@@ -1,5 +1,5 @@
 # 📊 Brazilian E-Commerce Data Analysis Using MySQL  
-A full SQL-based analysis of the **Olist Brazilian E-Commerce Public Dataset**, focusing on sales, customers, delivery performance, product insights, and business KPIs.
+A full SQL-based analysis of the **Olist Brazilian E-Commerce Public Dataset** (+100k record) , focusing on sales, customers, delivery performance, product insights, and business KPIs.
 
 ---
 
