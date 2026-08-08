@@ -55,7 +55,7 @@ olist-bi-project/
 │   ├── Database_creation.sql       # Schema + table definitions
 │   └── alter_fk.sql                # Foreign key constraints + data cleanup
 │
-├── notebooks/
+├── python/
 │   └── olist_analysis.ipynb        # Full Google Colab pipeline (Steps 1–13)
 │
 ├── exports/                        # CSV files exported from Colab → loaded into Power BI
